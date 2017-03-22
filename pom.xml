@@ -15,9 +15,9 @@
  
 	<scm>
 	    <!-- Replace the connection below with your project connection -->
-	    <connection>scm:git:git://github.com/tntdigital/tnt-com-be.git</connection>
-	    <developerConnection>scm:git:https://github.com/tntdigital/tnt-com-be.git</developerConnection>
-	    <url>https://github.com/tntdigital/tnt-com-be.git</url>
+	    <connection>scm:git:git://github.com/chandut027/git-version.git</connection>
+	    <developerConnection>scm:git:https://github.com/chandut027/git-version.git</developerConnection>
+	    <url>https://github.com/chandut027/git-version.git</url>
 	</scm>
     <!-- ====================================================================== -->
     <!-- P R O P E R T I E S -->
