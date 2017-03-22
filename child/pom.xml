@@ -16,8 +16,8 @@
 
 	<packaging>pom</packaging>
 
-	<name>tnt-express - Reactor Project</name>
-	<description>Maven Multimodule project for tnt express.</description>
+	<name>child-express - Reactor Project</name>
+	<description>Maven Multimodule project for child express.</description>
 
 
 	<!-- ====================================================================== -->

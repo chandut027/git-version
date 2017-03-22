@@ -10,8 +10,8 @@
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
  
-    <name>TNT COM BE</name>
-    <description>This is code base for CQ/AEM functionalities hosted on tnt.com</description>
+    <name>version test</name>
+    <description>This is code base for CQ/AEM functionalities hosted on test.com</description>
  
 	<scm>
 	    <!-- Replace the connection below with your project connection -->
